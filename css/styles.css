@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111; /* Preto */
+    color: #ddd; /* Cinza claro */
+}
+
+header {
+    background-color: #222;
+    color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #ccc;
+}
+
+#botao {
+    text-align: center;
+    margin: 30px;
+}
+
+#faleConosco {
+    background-color: #444;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#faleConosco:hover {
+    background-color: #666;
+}
+
+footer {
+    text-align: center;
+    background-color: #222;
+    color: #999;
+    padding: 10px;
+}
